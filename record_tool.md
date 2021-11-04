@@ -1,7 +1,8 @@
-#### 1.将 record_tool.zip 压缩包解压至当前目录
-![1.png](images/1.png)
+#### 1.将 record_tool.zip 压缩包解压至当前目录，解压之后，进入 record_tool 目录
+![1-2.png](images/1-2.png)
+![1-3.png](images/1-3.png)
 
-#### 2.解压之后，进入 record_tool 目录，编辑 config.yaml 配置文件，把下面config.yaml配置文件的参数替换成实际使用的参数
+#### 2.编辑 config.yaml 配置文件，把下面config.yaml配置文件的参数替换成实际使用的参数
 #### 变量说明
 | 参数名            | 说明                                                         |
 | ----------------- | ------------------------------------------------------------ |
